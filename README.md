@@ -1,4 +1,4 @@
-# Data Scientist
+# Data Analyst
 
 #### Technical Skills: Python, MySQL, Java, C
 
